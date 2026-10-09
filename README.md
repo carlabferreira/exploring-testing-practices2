@@ -59,7 +59,7 @@ O crescimento de testes acompanha o crescimento de source, indicando como a medi
 <img width="646" height="317" alt="image" src="https://github.com/user-attachments/assets/9d6b360c-288f-4b68-a4cb-c8fdeaa41750" />
 
 
-Além disso, 95,9% (1778/1853) dos teste stão localizados no diretório "tests", enquanto o restante está dividido entre docs (com arquivos .md), benchmarks e github workflows, utils e semelhantes, que parecem representar informações auxiliares sobre os testes, como lista de testes disponíveis, relatórios e comparação entre os testes (deduzido pelos nomes dos arquivos).
+Além disso, 97% (1111/1145) dos teste estão localizados no diretório "tests", enquanto o restante está dividido entre docs (com arquivos .md), benchmarks e github workflows, utils e semelhantes, que parecem representar informações auxiliares sobre os testes, como lista de testes disponíveis, relatórios e comparação entre os testes (deduzido pelos nomes dos arquivos).
 
 <img width="628" height="446" alt="image" src="https://github.com/user-attachments/assets/ad9ca0ba-c917-4c3c-86d6-8d0b4916c003" />
 
