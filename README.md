@@ -67,8 +67,17 @@ Além disso, 97% (1111/1145) dos teste estão localizados no diretório "tests",
 
 ### Repositório 2
 
-Repositório: `<URL_DO_REPOSITÓRIO>`
+Repositório: [https://github.com/microsoft/vscode](https://github.com/microsoft/vscode)
 
-URL TestMiner: `<URL_NO_TESTMINER>`
+URL TestMiner: [https://andrehora.github.io/testminer/#microsoft/vscode](https://andrehora.github.io/testminer/#microsoft/vscode)
 
-Explicação: `<SUA_EXPLICAÇÃO>`
+Explicação: O repositório apresenta um grande crescimento na quantidade de testes (9, 788 e 3679) entre as diferentes versões. Os testes totais crescem cerca de 4,5x entre a 1.65.1 e a 1.141.0, e o código-fonte cresce cerca de 3x. Além disso, há um destaque aos testes de ponta a ponta (e2e) que foram de 0 a 687 tendo um crescimento mais acentuado do que o crescimento do código fonte e indicam uma mudança de estratégia. Esse crescimento provavelmente também está relacionado com o aumento de funcionalidades no sistema, como uso de chat com IA, e a distância entre as versões comparadas.
+
+<img width="661" height="361" alt="image" src="https://github.com/user-attachments/assets/12eeadb1-3aa4-4219-97f8-606faad13748" />
+
+<img width="661" height="371" alt="image" src="https://github.com/user-attachments/assets/55fa2987-3fe5-440f-be5d-fe5f509d7f40" />
+
+<img width="646" height="334" alt="image" src="https://github.com/user-attachments/assets/e6686cab-0d30-4901-931b-655715ad96eb" />
+
+
+
