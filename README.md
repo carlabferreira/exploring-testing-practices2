@@ -46,11 +46,24 @@ Para cada repositório, escolha uma prática ou dado de teste relevante e expliq
 
 ### Repositório 1 
 
-Repositório: `<URL_DO_REPOSITÓRIO>`
+Repositório: [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
 
-URL TestMiner: `<URL_NO_TESTMINER>`
+URL TestMiner: [https://andrehora.github.io/testminer/#huggingface/transformers](https://andrehora.github.io/testminer/#huggingface/transformers)
 
-Explicação: `<SUA_EXPLICAÇÃO>`
+Explicação: 
+
+O crescimento de testes acompanha o crescimento de source, indicando como a medida que o sistema vai crescendo há a necessidade de adicionar mais testes para aquele código novo e como a coleção de testes tem o objetivo de auxiliar na manutenção do código. Na imagem abaixo podemos observar a quantidade de arquivos de testes por versão (3, 645 e 1139) em comparação com a quantidade em source (19, 2473 e 4408), cerca de 1/4 e com o comportamento muito semelhante.
+
+
+<img width="656" height="364" alt="image" src="https://github.com/user-attachments/assets/823c7f23-333c-4a1e-a4fe-7dcab27e8360" />
+<img width="646" height="317" alt="image" src="https://github.com/user-attachments/assets/9d6b360c-288f-4b68-a4cb-c8fdeaa41750" />
+
+
+Além disso, 95,9% (1778/1853) dos teste stão localizados no diretório "tests", enquanto o restante está dividido entre docs (com arquivos .md), benchmarks e github workflows, utils e semelhantes, que parecem representar informações auxiliares sobre os testes, como lista de testes disponíveis, relatórios e comparação entre os testes (deduzido pelos nomes dos arquivos).
+
+<img width="628" height="446" alt="image" src="https://github.com/user-attachments/assets/ad9ca0ba-c917-4c3c-86d6-8d0b4916c003" />
+
+
 
 ### Repositório 2
 
